@@ -1,3 +1,9 @@
+
+_Organizer's note:_ this project participated in iQuHACK 2020.
+
+---
+
+
 # Quantum error correction with only two extra qubits in Qiskit
 
 ## Dylan Doblar and Finnian Jacobson-Schulte
